@@ -1,2 +1,2 @@
 # Guessing-game
-A guessing game of a Sentance.
+In this game you have to guess the Sentance.
