@@ -1,2 +1,2 @@
 # Guessing-game
-A guessing game of a Sentance.
+A guessing game in which you have to guess the Sentance.
